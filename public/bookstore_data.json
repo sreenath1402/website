@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Book Emporium",
+      "location": "123 Main Street, Cityville",
+      "contact": "123-456-7890"
+    },
+    {
+      "name": "Reading Haven",
+      "location": "456 Elm Street, Townsville",
+      "contact": "987-654-3210"
+    },
+    {
+      "name": "Literary Corner",
+      "location": "789 Oak Street, Villagetown",
+      "contact": "555-555-5555"
+    }
+  ]
+  

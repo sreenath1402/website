@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "John",
+      "moveInDate": "2024-05-01",
+      "gender": "Male",
+      "approximatePrice": 500
+    },
+    {
+      "id": 2,
+      "name": "Emma",
+      "moveInDate": "2024-05-15",
+      "gender": "Female",
+      "approximatePrice": 600
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "moveInDate": "2024-06-01",
+      "gender": "Male",
+      "approximatePrice": 550
+    },
+    {
+      "id": 4,
+      "name": "Sophia",
+      "moveInDate": "2024-05-01",
+      "gender": "Female",
+      "approximatePrice": 500
+    },
+    {
+      "id": 5,
+      "name": "William",
+      "moveInDate": "2024-05-15",
+      "gender": "Male",
+      "approximatePrice": 600
+    },
+    {
+      "id": 6,
+      "name": "Olivia",
+      "moveInDate": "2024-06-01",
+      "gender": "Female",
+      "approximatePrice": 550
+    },
+    {
+      "id": 7,
+      "name": "James",
+      "moveInDate": "2024-05-01",
+      "gender": "Male",
+      "approximatePrice": 500
+    },
+    {
+      "id": 8,
+      "name": "Ava",
+      "moveInDate": "2024-05-15",
+      "gender": "Female",
+      "approximatePrice": 600
+    },
+    {
+      "id": 9,
+      "name": "Alexander",
+      "moveInDate": "2024-06-01",
+      "gender": "Male",
+      "approximatePrice": 550
+    },
+    {
+      "id": 10,
+      "name": "Mia",
+      "moveInDate": "2024-06-01",
+      "gender": "Female",
+      "approximatePrice": 550
+    }
+  ]
+  

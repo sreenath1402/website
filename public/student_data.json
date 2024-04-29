@@ -1,0 +1,63 @@
+[
+    {
+      "Name": "John Doe",
+      "Department": "CSE",
+      "Phone Number": "9876543210",
+      "Email": "ch.en.u4cse21170@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Jane Smith",
+      "Department": "ECE",
+      "Phone Number": "9876543211",
+      "Email": "ch.en.u4ece21171@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Michael Johnson",
+      "Department": "EEE",
+      "Phone Number": "9876543212",
+      "Email": "ch.en.u4eee21172@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Emily Williams",
+      "Department": "AI",
+      "Phone Number": "9876543213",
+      "Email": "ch.en.u4ai21173@ch.students.amrita.edu"
+    },
+    {
+      "Name": "David Brown",
+      "Department": "MECH",
+      "Phone Number": "9876543214",
+      "Email": "ch.en.u4mech21174@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Sarah Jones",
+      "Department": "CIVIL",
+      "Phone Number": "9876543215",
+      "Email": "ch.en.u4civil21175@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Christopher Lee",
+      "Department": "CSE",
+      "Phone Number": "9876543216",
+      "Email": "ch.en.u4cse21176@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Amanda Martinez",
+      "Department": "ECE",
+      "Phone Number": "9876543217",
+      "Email": "ch.en.u4ece21177@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Daniel Wilson",
+      "Department": "EEE",
+      "Phone Number": "9876543218",
+      "Email": "ch.en.u4eee21178@ch.students.amrita.edu"
+    },
+    {
+      "Name": "Jessica Taylor",
+      "Department": "AI",
+      "Phone Number": "9876543219",
+      "Email": "ch.en.u4ai21179@ch.students.amrita.edu"
+    }
+  ]
+  

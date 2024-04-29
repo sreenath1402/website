@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "availability": true,
+      "row": "A",
+      "column": 1
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "availability": true,
+      "row": "B",
+      "column": 3
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "availability": true,
+      "row": "C",
+      "column": 2
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "availability": false,
+      "row": "D",
+      "column": 4
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "availability": true,
+      "row": "A",
+      "column": 5
+    },
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "availability": true,
+      "row": "B",
+      "column": 1
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "availability": false,
+      "row": "C",
+      "column": 3
+    },
+    {
+      "id": 8,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "availability": true,
+      "row": "D",
+      "column": 2
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "availability": true,
+      "row": "A",
+      "column": 6
+    },
+    {
+      "id": 10,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "availability": false,
+      "row": "B",
+      "column": 5
+    }
+  ]
+  

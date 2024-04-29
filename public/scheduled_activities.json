@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Yoga Class",
+        "date": "2024-04-10"
+    },
+    {
+        "id": 2,
+        "name": "Basketball Game",
+        "date": "2024-04-12"
+    },
+    {
+        "id": 3,
+        "name": "Karaoke Night",
+        "date": "2024-04-15"
+    },
+    {
+        "id": 4,
+        "name": "Hiking Trip",
+        "date": "2024-04-17"
+    },
+    {
+        "id": 5,
+        "name": "Dance Party",
+        "date": "2024-04-20"
+    },
+    {
+        "id": 6,
+        "name": "Soccer Practice",
+        "date": "2024-04-22"
+    },
+    {
+        "id": 7,
+        "name": "Movie Night",
+        "date": "2024-04-25"
+    },
+    {
+        "id": 8,
+        "name": "Cooking Class",
+        "date": "2024-04-28"
+    },
+    {
+        "id": 9,
+        "name": "Tennis Match",
+        "date": "2024-05-01"
+    },
+    {
+        "id": 10,
+        "name": "Pool Party",
+        "date": "2024-05-05"
+    }
+]

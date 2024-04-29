@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d07613f.css",
+    "main.js": "/static/js/main.d9cef39d.js",
+    "static/js/453.7618f0b3.chunk.js": "/static/js/453.7618f0b3.chunk.js",
+    "static/media/textbook_wallpaper.jpg": "/static/media/textbook_wallpaper.13374019debe0769b4c9.jpg",
+    "static/media/login_wallpaper.png": "/static/media/login_wallpaper.c8f814d5144fd921446a.png",
+    "static/media/people_wallpaper.jpg": "/static/media/people_wallpaper.a3955edfb29f4e62a4e7.jpg",
+    "static/media/sports_wallpaper.jpg": "/static/media/sports_wallpaper.716f5c717d9fb3950acc.jpg",
+    "static/media/roomate_wallpaper.jpg": "/static/media/roomate_wallpaper.b915dfccec3dd71dfadd.jpg",
+    "static/media/busticket_wallpaper.jpg": "/static/media/busticket_wallpaper.327a837dbc62f062f73d.jpg",
+    "static/media/meal_wallpaper.jpg": "/static/media/meal_wallpaper.3b65e292a15acdff55c5.jpg",
+    "static/media/election_wallpaper.jpg": "/static/media/election_wallpaper.a3e378485d05387501a9.jpg",
+    "index.html": "/index.html",
+    "main.6d07613f.css.map": "/static/css/main.6d07613f.css.map",
+    "main.d9cef39d.js.map": "/static/js/main.d9cef39d.js.map",
+    "453.7618f0b3.chunk.js.map": "/static/js/453.7618f0b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d07613f.css",
+    "static/js/main.d9cef39d.js"
+  ]
+}

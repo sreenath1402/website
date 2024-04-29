@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "isbn": 1234,
+      "author": "J.K. Rowling",
+      "availability": true,
+      "row": "A",
+      "column": 1
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "isbn": 1432,
+      "author": "Harper Lee",
+      "availability": true,
+      "row": "B",
+      "column": 3
+
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "isbn": 1324,
+      "author": "F. Scott Fitzgerald",
+      "availability": true,
+      "row": "C",
+      "column": 2
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "isbn": 4321,
+      "author": "George Orwell",
+      "availability": false,
+      "row": "D",
+      "column": 4
+    },
+    {
+      "id": 5,
+      "title": "Pride and Prejudice",
+      "isbn": 4234,
+      "author": "Jane Austen",
+      "availability": true,
+      "row": "A",
+      "column": 5
+    },
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "isbn": 9234,
+      "author": "J.D. Salinger",
+      "availability": true,
+      "row": "B",
+      "column": 1
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "isbn": 1734,
+      "author": "Harper Lee",
+      "availability": false,
+      "row": "C",
+      "column": 3
+    },
+    {
+      "id": 8,
+      "title": "The Great Gatsby",
+      "isbn": 1294,
+      "author": "F. Scott Fitzgerald",
+      "availability": true,
+      "row": "D",
+      "column": 2
+    },
+    {
+      "id": 9,
+      "title": "Harry Potter",
+      "isbn": 1994,
+      "author": "J.K. Rowling",
+      "availability": true,
+      "row": "A",
+      "column": 6
+    },
+    {
+      "id": 10,
+      "title": "Pride and Prejudice",
+      "isbn": 2004,
+      "author": "Jane Austen",
+      "availability": false,
+      "row": "B",
+      "column": 5
+    }
+  ]
+  

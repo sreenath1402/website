@@ -1,0 +1,11 @@
+/* App.css */
+body {
+  background-color: #F4F1E8;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  opacity: 0.9; /* Adjust the opacity value as needed */
+}

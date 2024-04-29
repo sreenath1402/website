@@ -1,0 +1,53 @@
+[
+    {
+      "name": "John Doe",
+      "email": "ch.en.u4cse21101@ch.students.amrita.edu",
+      "password": "password1"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "ch.en.u4ece21102@ch.students.amrita.edu",
+      "password": "password2"
+    },
+    {
+      "name": "Michael Johnson",
+      "email": "ch.en.u4ece21103@ch.students.amrita.edu",
+      "password": "password3"
+    },
+    {
+      "name": "Emily Davis",
+      "email": "ch.en.u4eee21104@ch.students.amrita.edu",
+      "password": "password4"
+    },
+    {
+      "name": "Chris Brown",
+      "email": "ch.en.u4ai21105@ch.students.amrita.edu",
+      "password": "password5"
+    },
+    {
+      "name": "Sarah Wilson",
+      "email": "ch.en.u4cse21178@ch.students.amrita.edu",
+      "password": "password6"
+    },
+    {
+      "name": "Daniel Taylor",
+      "email": "ch.en.u4cse21164@ch.students.amrita.edu",
+      "password": "password7"
+    },
+    {
+      "name": "Jessica Martinez",
+      "email": "ch.en.u4cse21163@ch.students.amrita.edu",
+      "password": "password8"
+    },
+    {
+      "name": "Kevin Anderson",
+      "email": "ch.en.u4cse21162@ch.students.amrita.edu",
+      "password": "password9"
+    },
+    {
+      "name": "Amanda Thomas",
+      "email": "ch.en.u4cse21161@ch.students.amrita.edu",
+      "password": "password10"
+    }
+  ]
+  
